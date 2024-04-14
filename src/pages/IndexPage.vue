@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex flex-center">
- 
+    jhshgs
     user
     <q-input outlined v-model="form.user"  />
     pass
