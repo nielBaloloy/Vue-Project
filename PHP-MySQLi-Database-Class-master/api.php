@@ -16,7 +16,7 @@
   {
       public function __construct()
       {
-       $this->db = new MysqliDB('https://php-myadmin.net/index.php', 'if0_36361523', 'bXidRxtnbVA', 'if0_36361523_sampledb');
+       $this->db = new MysqliDB('sql6.freesqldatabase.com', 'if0_36361523', 'bXidRxtnbVA', 'if0_36361523_sampledb');
         
       }
 
